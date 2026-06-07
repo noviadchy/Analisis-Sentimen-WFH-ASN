@@ -1,8 +1,9 @@
-PySastrawi
-joblib==1.5.3
-matplotlib==3.10.0
-nltk==3.9.1
-numpy==2.0.2
-pandas==2.2.2
-scipy==1.16.3
 streamlit
+scikit-learn
+numpy
+pandas
+scipy
+nltk
+joblib
+matplotlib
+PySastrawi
